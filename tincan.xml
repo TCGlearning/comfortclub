@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://_BtMlv3hteArFQpPhfMbMtV17PSr8XTS_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Flexirest@BRU (In Progress - April 2025)</name>
+      <description lang="en-US">Introduce Dream Tokens = Benefits that help your customer sleep better</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://_BtMlv3hteArFQpPhfMbMtV17PSr8XTS_rise/T055aP85iLtE03vSqOzNFfNsKskykqE7" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Meet Luna/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://_BtMlv3hteArFQpPhfMbMtV17PSr8XTS_rise/g9Ma9xFwlu-X8xKjNJ3wnwR8sHxvIGXK" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">why adjustable/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
